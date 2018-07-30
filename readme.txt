@@ -9,3 +9,5 @@ Git tracks changes of files.
 Creating a new branch is quick.
 lelelel
 Creating a new branch is quick and simple.
+
+--no-ff·½Ê½µÄgit merg
