@@ -11,3 +11,4 @@ lelelel
 Creating a new branch is quick and simple.
 
 --no-ff·½Ê½µÄgit merg
+fix bug
